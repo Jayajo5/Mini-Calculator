@@ -6,7 +6,7 @@ let calculation = '';
 
   function clearDisplay() {
     calculation = '';
-    display.value = (`0 ${calculation}`);
+    display.value = (calculation);
   }
 
   function deleteDisplay() {
