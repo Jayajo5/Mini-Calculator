@@ -11,7 +11,7 @@
 body{
   background-color: rgb(237, 220, 252);
   max-width: 100%;
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,7 +39,7 @@ img{
   background-color: lightcoral;
   max-width: 100%;
   width: 300px;
-  min-height: 500px;
+  height: 500px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -108,7 +108,7 @@ input::placeholder{
 .btn-container .btn-1{
   background-color: rgb(229, 202, 252);
   border: none;
-  width: 100%;
+  width: 95%;
   height: 50px;
   border-radius: 50px;
   font-size: 17px;
