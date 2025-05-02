@@ -82,7 +82,7 @@ input:focus{
 
 - [CSS Tricks](https://css-tricks.com/centering-css-complete-guide/) - This helped me for Centering in CSS. I really liked this pattern and will use it going forward.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox) - This is an amazing free resource which helped me finally understand Flexbox. I'd recommend it to anyone still learning this concept.
-- [Math.js] https://mathjs.org/
+- [Math.js] https://mathjs.org/ - This is an amazing free resource which helped me how to safely evaluate math expressions using `math.js`.
 
 ## Author
 
