@@ -10,7 +10,7 @@ let calculation = '';
   }
 
   function deleteDisplay() {
-    calculation = calculation.slice(0, -1); //slice will remove the last character of the string
+    calculation = calculation.slice(0, -1); //slice(0, -1) will remove the last character of the string
     display.value = calculation;
   }
 
@@ -20,7 +20,7 @@ let calculation = '';
   }
 
   function calculate() {
-    if (calculation.trim() === '') {
+    if (calculation.trim() === '') { //trim() it will check if nothing has been entered
       calculation = '0';
     } else {
       calculation = math.evaluate(calculation); //evaluates eval() a string as code, it is risk so, i used here a math.evaluate.
