@@ -46,7 +46,7 @@ A simple, responsive mini calculator made using vanilla JavaScript, with feature
 
 ### Links
 
-- Live Site URL: [Click here to see my Mini calculator project]()
+- Live Site URL: [Click here to see my Mini calculator project](https://jayajo5.github.io/Mini-Calculator/)
 
 ## My process
 
