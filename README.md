@@ -6,7 +6,7 @@ A basic JavaScript calculator that allows users to perform simple arithmetic ope
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Features] (#Features)
+  - [Features](#Features)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
