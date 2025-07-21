@@ -64,7 +64,7 @@ A simple, responsive mini calculator made using vanilla JavaScript, with feature
 - Customizing focus styles in form elements
 
 ```html
-<input name="number" placeholder="0" id="display">
+<input name="number" placeholder="0" id="display" readonly>
 
 ```
 ```css
